@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textoOnResume">Wellcome</string>
+    <string name="textoOnPause">In Pause</string>
+    <string name="app_name">"Lifecycle  "</string>
+    <string name="textopergunta">Are you ok?</string>
+</resources>
