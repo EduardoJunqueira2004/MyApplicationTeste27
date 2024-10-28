@@ -3,4 +3,5 @@
     <string name="textoOnPause">Em pausa</string>
     <string name="app_name">"Lifecycle "</string>
     <string name="textopergunta">Estás bem</string>
+    <string name="TextView">textoid</string>
 </resources>
